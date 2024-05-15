@@ -3,7 +3,7 @@ include_once __DIR__ . '/classes/User.php';
 $servername = "localhost";
 $username = "root"; // Cambia questo se il tuo utente MySQL non è 'root'
 $password = ""; // Cambia questo con la password del tuo utente MySQL
-$dbname = "s5-l5-utenti";
+$dbname = "w5_d5";
 
 try {
     // Creare connessione PDO
